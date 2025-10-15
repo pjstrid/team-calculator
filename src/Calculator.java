@@ -13,4 +13,8 @@ public class Calculator {
         return a + b;
     }
 
+    public int average(int a, int b){
+        return (a + b) / 2;
+    }
+
 }
