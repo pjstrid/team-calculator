@@ -5,6 +5,9 @@ public class Main {
 
         Calculator calc = new Calculator();
       
+        System.out.println("Multiply: " + calc.multiply(2, 3));
+
+      
         System.out.println("Subtract " + calc.subtract(12, 5));
 
 
