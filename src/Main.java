@@ -13,6 +13,6 @@ public class Main {
 
         System.out.println("Addition: " + calc.add(2, 3));
 
-
+        System.out.println("Divide " + calc.divide(2, 3));
     }
 }
