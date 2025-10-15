@@ -13,7 +13,11 @@ public class Calculator {
         return a + b;
     }
 
-    public int divide(int a, int b){
+    public int average(int a, int b){
+        return (a + b) / 2;
+    }
+   
+      public int divide(int a, int b){
         return a / b;
     }
 

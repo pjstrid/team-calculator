@@ -10,6 +10,7 @@ public class Main {
       
         System.out.println("Subtract " + calc.subtract(12, 5));
 
+        System.out.println("Average " + calc.average(52, 84));
 
         System.out.println("Addition: " + calc.add(2, 3));
 
