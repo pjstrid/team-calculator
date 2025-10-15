@@ -13,6 +13,10 @@ public class Main {
 
         System.out.println("Addition: " + calc.add(2, 3));
 
+        System.out.println("Is " + 222 + " an even number: " + calc.modulus(222));
+        System.out.println("Is " + 333 + " an even number: " + calc.modulus(333));
+
+
 
     }
 }

@@ -13,4 +13,12 @@ public class Calculator {
         return a + b;
     }
 
+    public boolean modulus (int a){
+        if (a % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
 }
